@@ -1,11 +1,14 @@
 type,down,up,total
 bus,1,0,1
-car,3,0,3
-convertible,2,0,2
-garbage truck,4,0,4
-minibus,7,0,7
-motorcycle,2,0,2
-sports car,15,0,15
-trailer truck,1,0,1
-van,314,0,314
-wagon,1,0,1
+bus (bus),2,0,2
+bus (garbage truck),1,0,1
+bus (minibus),2,0,2
+bus (van),11,0,11
+car,9,1,10
+car (minibus),2,0,2
+car (sports car),14,1,15
+car (van),290,1,291
+truck,1,0,1
+truck (garbage truck),2,0,2
+truck (minibus),3,0,3
+truck (van),17,0,17
