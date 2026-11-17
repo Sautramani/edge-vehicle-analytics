@@ -1,6 +1,7 @@
 # Edge Vehicle Analytics
 
-> Initial version based on [khayyam90/yolo-vehicules-detection](https://github.com/khayyam90/yolo-vehicules-detection) (MIT). Extended with sub-type classification, a latency/accuracy/bandwidth benchmark and an ROI-aware encoding experiment.
+
+
 
 Vehicle detection, tracking and line-crossing counting on traffic video (YOLO26 + ByteTrack + OpenCV), plus a small study of how model size, input resolution, JPEG compression and region-of-interest (ROI) encoding trade accuracy against latency and bandwidth. The motivation is edge video analytics, where compute and network bandwidth are limited.
 
