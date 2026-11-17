@@ -1,0 +1,11 @@
+type,down,up,total
+bus,1,0,1
+car,3,0,3
+convertible,2,0,2
+garbage truck,4,0,4
+minibus,7,0,7
+motorcycle,2,0,2
+sports car,15,0,15
+trailer truck,1,0,1
+van,314,0,314
+wagon,1,0,1

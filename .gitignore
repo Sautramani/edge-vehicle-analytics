@@ -10,3 +10,5 @@ __pycache__/
 *.onnx
 outputs/
 data/
+results/pseudo_gt.pkl
+results/crops/
