@@ -1,0 +1,12 @@
+.venv/
+traffic.mp4
+output.mp4
+__pycache__/
+*.pyc
+*.pt.venv/
+__pycache__/
+*.mp4
+*.pt
+*.onnx
+outputs/
+data/
