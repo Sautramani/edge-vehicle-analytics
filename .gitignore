@@ -10,3 +10,9 @@ __pycache__/
 *.onnx
 outputs/
 data/
+results/pseudo_gt.pkl
+results/crops/
+run.log
+run_main.log
+nohup.out
+yolo26*.pt

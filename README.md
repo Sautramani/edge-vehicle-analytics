@@ -1,5 +1,7 @@
 # OpenCV Cars Tracking
 
+> Initial version based on [khayyam90/yolo-vehicules-detection](https://github.com/khayyam90/yolo-vehicules-detection) (MIT). Extended with sub-type classification, a latency/accuracy/bandwidth benchmark and an ROI-aware encoding experiment.
+
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 [![Ultralytics YOLO26](https://img.shields.io/badge/Ultralytics-YOLO26-FF6F00?logo=pytorch&logoColor=white)](https://docs.ultralytics.com/)
