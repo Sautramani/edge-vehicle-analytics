@@ -16,3 +16,10 @@ run.log
 run_main.log
 nohup.out
 yolo26*.pt
+
+# local outputs and secrets
+results/video_run/
+kaggle.json
+*.pt
+datasets/
+__pycache__/

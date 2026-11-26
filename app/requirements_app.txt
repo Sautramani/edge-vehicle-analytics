@@ -1,0 +1,7 @@
+gradio
+ultralytics
+lap
+pandas
+matplotlib
+opencv-python
+pyyaml
